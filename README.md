@@ -1,4 +1,4 @@
-# RevPay Challenge - React Form Application
+# Challenge - React Form Application
 
 This project is a comprehensive form application built with React, TypeScript, and modern web technologies. It demonstrates best practices in form handling, state management, and user interface design.
 
